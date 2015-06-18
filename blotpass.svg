@@ -14,7 +14,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    id="svg2"
-   sodipodi:docname="blotpw.svg"
+   sodipodi:docname="blotpass.svg"
    inkscape:export-filename="C:\Users\Stuart\Documents\GitHub\blotpass-logo\blotpass.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -81,7 +81,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,6 +90,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-122.55645,-594.81652)">
+    <rect
+       style="fill:#ffffff;stroke:#bbbbbb;stroke-width:9.99999904999999960;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2993"
+       width="180"
+       height="180"
+       x="127.55645"
+       y="599.81653" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:1;stroke:none"
@@ -108,12 +115,5 @@
        inkscape:transform-center-x="-6.8037391"
        inkscape:transform-center-y="-20.546129"
        transform="matrix(0.97683199,0,0,0.97683199,128.39069,562.13197)" />
-    <rect
-       style="fill:none;stroke:#bbbbbb;stroke-width:9.99999905;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect2993"
-       width="180"
-       height="180"
-       x="127.55645"
-       y="599.81653" />
   </g>
 </svg>
